@@ -2,7 +2,7 @@
 
 import argparse, sys, re
 
-parser = argparse.ArgumentParser(description="Program to solve Advent of Code for 2016-12-07")
+parser = argparse.ArgumentParser(description="Program to solve Advent of Code for 2016-12-08")
 parser.add_argument("--input_file", default="input.txt")
 parser.add_argument("--width", default=50, type=int)
 parser.add_argument("--height", default=6, type=int)
